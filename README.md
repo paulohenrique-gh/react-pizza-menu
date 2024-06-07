@@ -14,6 +14,8 @@
 - Destructuring props
 - Setting classes and text conditionally
 
+[Aditional exercises here](https://codesandbox.io/p/sandbox/react-challenge-dev-profile-starter-forked-z2x346?file=%2Fsrc%2Findex.js%3A6%2C31)
+
 ## Available Scripts
 
 In the project directory, you can run:
